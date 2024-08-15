@@ -1,0 +1,12 @@
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\DiscordNitroV2.exe.config
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\DiscordNitroV2.exe
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\DiscordNitroV2.pdb
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\jLib.dll
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\jLib.pdb
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\obj\Debug\DiscordNitroV2.csproj.AssemblyReference.cache
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\obj\Debug\DiscordNitroV2.csproj.CoreCompileInputs.cache
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\obj\Debug\DiscordN.CE1160F6.Up2Date
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\obj\Debug\DiscordNitroV2.exe
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\obj\Debug\DiscordNitroV2.pdb
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\Newtonsoft.Json.dll
+D:\Проекты\repos\DiscordNitroSearcher\DiscordNitroV2\bin\Debug\Newtonsoft.Json.xml
